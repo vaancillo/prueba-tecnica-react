@@ -1,6 +1,4 @@
-prueba tecnica con react desde 0 aprender a configurar vite e instalar las dependencias necesarias 
-
-Prueba técnica para Juniors y Trainees de React en Live Coding.
+# Prueba técnica para Juniors y Trainees de React en Live Coding.
 APIs:
 
 Facts Random: https://catfact.ninja/fact
